@@ -5,8 +5,7 @@ import numpy as np
 import math
 from datetime import datetime
 
-API_KEY = '26eAaUMUEzN6jbOpvRDjj0C9Q9V'
-
+API_KEY = 'your_api_key'
 class GetnClean():
     
     def __init__(self, directory, data_name, start_date):
